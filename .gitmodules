@@ -1,0 +1,3 @@
+[submodule "service-a"]
+	path = service-a
+	url = git@github.com:artem-lovan/terraform-service-a.git
