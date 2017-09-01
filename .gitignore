@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+submodule-test-master.iml
+.terraform
+modules
+terraform.tfstate
